@@ -74,7 +74,7 @@
 
  <div align="center" style="background: #fdf2f2; padding: 20px; border-radius: 10px; border: 1px solid #fca5a5;">
     <b style="font-size: 18px; color: #991b1b;">Alyssa Mae T. De Guzman</b><br>
-    <i style="color: #4b5563;">Web Full-Stack Developer</i><br>
+    <i style="color: #4b5563;">Developer</i><br>
   </div>
 
 </div>
