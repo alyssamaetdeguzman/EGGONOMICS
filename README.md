@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Glowing Banner with Tight Spacing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=70&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=750&height=75&lines=CLUCKTRACK" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=70&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=750&height=75&lines="EggstraYield" alt="Typing SVG" />
 
   <h3 align="center" style="margin: -5px 0 8px 0; color: #f87171; font-weight: 600; font-size: 18px;">
     Web-based Real-time Inventory & Production Analytics System
@@ -21,8 +21,8 @@
 </div>
 <br>
 
-  <h2>📌 About CluckTrack</h2>
-  <p style="line-height: 1.6;"><strong>CluckTrack</strong> is an enterprise-grade Agricultural ERP web application engineered to modernize poultry farm management. Developed as an academic capstone project, it eliminates error-prone paper ledgers and disconnected Google Sheets, replacing them with a unified real-time dashboard that tracks dynamic inventory, monitors daily production yields, and processes predictive analytics for optimized farm profitability.</p>
+  <h2>📌 About EggstraYield</h2>
+  <p style="line-height: 1.6;"><strong>EggstraYield</strong> is an enterprise-grade Agricultural ERP web application engineered to modernize poultry farm management. Developed as an academic capstone project, it eliminates error-prone paper ledgers and disconnected Google Sheets, replacing them with a unified real-time dashboard that tracks dynamic inventory, monitors daily production yields, and processes predictive analytics for optimized farm profitability.</p>
 
   <br>
 
