@@ -13,7 +13,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-In%20Active%20Development-red?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/Web App-Personal%20Project-darkred?style=for-the-badge&logo=files&logoColor=white" alt="Academic" />
+    <img src="https://img.shields.io/badge/Type-Personal%20Project-darkred?style=for-the-badge&logo=files&logoColor=white" alt="Academic" />
     <img src="https://img.shields.io/badge/ERP-Agricultural-crimson?style=for-the-badge&logo=databricks&logoColor=white" alt="ERP" />
     <img src="https://img.shields.io/badge/License-MIT-firebrick?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
   </p>
@@ -22,7 +22,7 @@
 <br>
 
   <h2>📌 About Eggonomics</h2>
-  <p style="line-height: 1.6;"><strong>Eggonomics</strong> is an enterprise-grade Agricultural ERP web application engineered to modernize poultry farm management. Developed as an academic capstone project, it eliminates error-prone paper ledgers and disconnected Google Sheets, replacing them with a unified real-time dashboard that tracks dynamic inventory, monitors daily production yields, and processes predictive analytics for optimized farm profitability.</p>
+  <p style="line-height: 1.6;"><strong>Eggonomics</strong> is an Agricultural ERP web application engineered to modernize poultry farm management. Developed as a personal project, it aims to eliminate error-prone paper ledgers and disconnected Google Sheets, replacing them with a unified real-time dashboard that tracks dynamic inventory, monitors daily production yields, and processes predictive analytics for optimized poultry farm profitability.</p>
 
   <br>
 
